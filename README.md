@@ -1,0 +1,2 @@
+# Loan Default Predictor
+This project consists of a small collection of Jupyter Notebooks used to train different ML models to predict the probability of default for a loan using the [Lending Club dataset](https://www.lendingclub.com/). The implementation and research behind it was done with the help of [Lukas Ostrovskis](https://github.com/lukas-ostrovskis) as part of the [Data Science for Finance](https://studyguide.tudelft.nl/a101_displayCourse.do?course_id=66138) course at TU Delft.
